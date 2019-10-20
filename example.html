@@ -1,0 +1,10 @@
+<h1>example</h1>
+<hello-world></hello-world>
+<welcome-phrase name="Mr.Example"></welcome-phrase>
+
+<script type="module">
+  import HelloWorld from './hello-world.mjs'
+  import WelcomePhrase from './welcome-phrase.mjs'
+  customElements.define('hello-world', HelloWorld);
+  customElements.define('welcome-phrase', WelcomePhrase);
+</script>

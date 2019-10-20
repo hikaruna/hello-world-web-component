@@ -1,0 +1,11 @@
+{
+  "name": "@hikaruna/hello-world-web-component",
+  "version": "1.0.0",
+  "main": "hello-world.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hikaruna/hello-world-web-component.git"
+  },
+  "author": "hikaruna",
+  "license": "MIT"
+}
